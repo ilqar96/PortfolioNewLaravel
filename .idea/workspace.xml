@@ -2,197 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ef048a-333b-43d1-ae6a-5810e1182cc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_about.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_event.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_event.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_feature.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_feature.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_footer.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_price.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_price.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_projects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_projects.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_service.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_service.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_team.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_team.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_testimonials.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/_testimonials.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/breadcrumb.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/breadcrumb.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/banner/banner-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/banner/banner-map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/banner/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/banner/home-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/banner/home-left-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/add.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/author.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/c1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/c2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/c3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/c4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/c5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/c6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/cat-post/cat-post-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/cat-post/cat-post-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/cat-post/cat-post-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/causes/causes-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/causes/causes-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/causes/causes-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/feature-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/home-blog/home-blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/home-blog/home-blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/home-blog/home-blog-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/main-blog/m-blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/main-blog/m-blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/main-blog/m-blog-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/main-blog/m-blog-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/main-blog/m-blog-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/next.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/popular-post/post1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/popular-post/post2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/popular-post/post3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/popular-post/post4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/post-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/post-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/blog/prev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/_DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/disabled-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/disabled-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/f3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/f4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/f5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/f6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/f7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/f8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/g1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/g2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/g3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/g4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/g5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/g6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/g7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/g8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/primary-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/primary-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/success-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/success-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/user1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/elements/user2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/gallery/portfolio_details.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/instagram/Image-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/instagram/Image-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/instagram/Image-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/instagram/Image-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/instagram/Image-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/instagram/Image-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/instagram/Image-07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/instagram/Image-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/logo 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/projects/projects-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/projects/projects-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/projects/projects-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/projects/projects-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/projects/projects-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/projects/projects-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/team/team-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/team/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/team/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/img/team/team-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/gmaps.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/isotope-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/jquery.ajaxchimp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/jquery.form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/mail-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/stellar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_elements.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_feature.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_predefine.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_projects.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_team.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_testimonials.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/animate-css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/animate-css/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/bootstrap-datepicker/bootstrap-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/bootstrap-datepicker/bootstrap-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/counter-up/jquery.counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/counter-up/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/flaticon/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/flaticon/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/flaticon/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/flaticon/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/flaticon/_flaticon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/flaticon/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/flipclock/timer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/isotope/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/isotope/isotope-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/jquery-ui/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/jquery-ui/jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/lightbox/simpleLightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/lightbox/simpleLightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/linericon/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/linericon/fonts/Linearicons-Free.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/linericon/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/linericon/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/linericon/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/linericon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/nice-select/css/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/nice-select/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/nice-select/js/jquery.nice-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/nice-select/js/jquery.nice-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/owl-carousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/owl-carousel/assets/animated.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/owl-carousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/owl-carousel/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/vendors/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/frontend/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/frontend/inc/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/frontend/inc/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/frontend/inc/navbar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/back-app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/front-app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaravelPortfolio-master/.idea/LaravelPortfolio-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/htmlpages/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/htmlpages/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/htmlpages/portfolio-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/htmlpages/single-blog.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../adaletazlast/app/Http/Controllers/Admin/PhotoGalleryTableController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../adaletazlast/app/Http/Controllers/Admin/PostTableController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../adaletazlast/database/seeds/CategoryTableSeeder.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../adaletazlast/public/db.transfer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/frontend/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/frontend/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/frontend/inc/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/frontend/inc/navbar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/front-app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/front-app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../symf_tenant/.env" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../symf_tenant/.env.test" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../symf_tenant/.gitignore" beforeDir="false" />
@@ -300,13 +128,15 @@
       <find>{{asset('</find>
       <find>title</find>
       <find>asset('</find>
+      <find>Please enter a value</find>
+      <find>img</find>
     </findStrings>
     <replaceStrings>
       <replace>href=&quot;{{asset('frontend/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -314,17 +144,20 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
         <option value="$PROJECT_DIR$/resources/views/frontend/index.html" />
-        <option value="$PROJECT_DIR$/resources/views/frontend/inc/navbar.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/frontend/inc/footer.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/frontend/inc/header.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/resources/views/frontend/home.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/front-app.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/TestController.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/CheckAgae.php" />
         <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/routes/api.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/about.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/front-app.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/inc/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/contact.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/blog.blade.php" />
       </list>
     </option>
   </component>
@@ -420,18 +253,6 @@
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/test.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/php.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/laravel-plugin.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="97" />
     <option name="y" value="-8" />
@@ -444,22 +265,63 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/frontend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ilqar\projects\Laravel\test\resources\views\frontend\htmlpages" />
+      <recent name="D:\ilqar\projects\Laravel\test\resources\views\frontend" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ilqar\projects\Laravel\test\resources\views\frontend" />
+      <recent name="D:\ilqar\projects\Laravel\test\resources\views\frontend\inc" />
       <recent name="D:\ilqar\projects\Laravel\test\public\Frontend" />
     </key>
   </component>
@@ -498,17 +360,17 @@
       <workItem from="1574101714833" duration="790000" />
       <workItem from="1574593645983" duration="4331000" />
       <workItem from="1574602589782" duration="1242000" />
-      <workItem from="1574610926154" duration="4200000" />
+      <workItem from="1574610926154" duration="8362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17111000" />
+    <option name="totallyTimeSpent" value="21273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26860842" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26860842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -523,7 +385,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5628604" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.42214534" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -534,82 +396,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/hashing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/logging.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/queue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1360">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/console.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/channels.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Providers/EventServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -717,13 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -747,55 +526,10 @@
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/back-app.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/frontend/vendors/isotope/isotope-min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/frontend/inc/footer.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/frontend/inc/header.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/frontend/inc/navbar.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/front-app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/frontend/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -858,10 +592,166 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/inc/portfolio-details.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ronin/contact_process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#thead#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#thead#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/htmlpages/portfolio-details.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/inc/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/htmlpages/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="315" column="8" lean-forward="true" selection-start-line="315" selection-start-column="8" selection-end-line="315" selection-end-column="8" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/inc/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frontend/vendors/isotope/isotope-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frontend/js/stellar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frontend/js/jquery.ajaxchimp.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frontend/js/mail-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/inc/navbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/htmlpages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5000">
+          <caret line="250" column="43" selection-start-line="243" selection-start-column="7" selection-end-line="250" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/front-app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/blog.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/htmlpages/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="444" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3880">
+          <caret line="194" column="26" lean-forward="true" selection-start-line="194" selection-start-column="26" selection-end-line="194" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

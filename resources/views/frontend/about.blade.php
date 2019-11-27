@@ -1,7 +1,6 @@
 @extends('layouts.front-app')
 
-@section('title',"Huseynli Ilqar")
-
+@section('title',"Huseynli Ilqar - About")
 
 @section('styles')
 
@@ -12,28 +11,21 @@
 @endsection
 
 
-
 @section('content')
 
 
     <!--================Home Banner Area =================-->
-    <section class="home_banner_area">
-        <div class="banner_inner">
+    <section class="banner_area">
+        <div class="banner_inner d-flex align-items-center">
+            <div class="overlay bg-parallax" data-stellar-ratio="0.9" data-stellar-vertical-offset="0" data-background=""></div>
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="home_left_img">
-                            <img src="{{asset('frontend/img/banner/home-left-1.png')}}" alt="">
-                        </div>
+                <div class="banner_content text-center">
+                    <h2>About Me</h2>
+                    <div class="page_link">
+                        <a href="index.html">Home</a>
+                        <a href="htmlpages/about-us.html">About Me</a>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="banner_content">
-                            <h5>This is me</h5>
-                            <h2>Travor James</h2>
-                            <p>You will begin to realise why this exercise is called the Dickens Pattern (with reference to the ghost showing Scrooge some different futures)</p>
-                            <a class="banner_btn" href="#">Discover Now</a>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -49,21 +41,21 @@
                         <h4>About Myself</h4>
                         <p>inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often laughed.</p>
                         <div class="row">
-                            <div class="col-md-4">
+                            <div class="col-sm-4">
                                 <div class="wel_item">
                                     <i class="lnr lnr-database"></i>
                                     <h4>$2.5M</h4>
                                     <p>Total Donation</p>
                                 </div>
                             </div>
-                            <div class="col-md-4">
+                            <div class="col-sm-4">
                                 <div class="wel_item">
                                     <i class="lnr lnr-book"></i>
                                     <h4>1465</h4>
                                     <p>Total Projects</p>
                                 </div>
                             </div>
-                            <div class="col-md-4">
+                            <div class="col-sm-4">
                                 <div class="wel_item">
                                     <i class="lnr lnr-users"></i>
                                     <h4>3965</h4>
@@ -170,83 +162,8 @@
     </section>
     <!--================End Feature Area =================-->
 
-    <!--================Projects Area =================-->
-    <section class="projects_area p_120">
-        <div class="container">
-            <div class="main_title">
-                <h2>Our Recent Completed Projects</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-            </div>
-            <div class="projects_fillter">
-                <ul class="filter list">
-                    <li class="active" data-filter="*"><a href="#">All Categories</a></li>
-                    <li data-filter=".brand"><a href="#">Branding</a></li>
-                    <li data-filter=".work"><a href="#">Creative Work </a></li>
-                    <li data-filter=".web"><a href="#">Web Design</a></li>
-                </ul>
-            </div>
-            <div class="projects_inner row">
-                <div class="col-lg-4 col-sm-6 brand web">
-                    <div class="projects_item">
-                        <img class="img-fluid" src="{{asset('frontend/img/projects/projects-1.jpg')}}" alt="">
-                        <div class="projects_text">
-                            <a href="htmlpages/portfolio-details.html"><h4>3D Helmet Design</h4></a>
-                            <p>Client Project</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 brand work">
-                    <div class="projects_item">
-                        <img class="img-fluid" src="{{asset('frontend/img/projects/projects-2.jpg')}}" alt="">
-                        <div class="projects_text">
-                            <a href="htmlpages/portfolio-details.html"><h4>3D Helmet Design</h4></a>
-                            <p>Client Project</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 work">
-                    <div class="projects_item">
-                        <img class="img-fluid" src="{{asset('frontend/img/projects/projects-3.jpg')}}" alt="">
-                        <div class="projects_text">
-                            <a href="htmlpages/portfolio-details.html"><h4>3D Helmet Design</h4></a>
-                            <p>Client Project</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 brand web">
-                    <div class="projects_item">
-                        <img class="img-fluid" src="{{asset('frontend/img/projects/projects-4.jpg')}}" alt="">
-                        <div class="projects_text">
-                            <a href="htmlpages/portfolio-details.html"><h4>3D Helmet Design</h4></a>
-                            <p>Client Project</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 brand work">
-                    <div class="projects_item">
-                        <img class="img-fluid" src="{{asset('frontend/img/projects/projects-5.jpg')}}" alt="">
-                        <div class="projects_text">
-                            <a href="htmlpages/portfolio-details.html"><h4>3D Helmet Design</h4></a>
-                            <p>Client Project</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 brand work web">
-                    <div class="projects_item">
-                        <img class="img-fluid" src="{{asset('frontend/img/projects/projects-6.jpg')}}" alt="">
-                        <div class="projects_text">
-                            <a href="htmlpages/portfolio-details.html"><h4>3D Helmet Design</h4></a>
-                            <p>Client Project</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--================End Projects Area =================-->
-
     <!--================Testimonials Area =================-->
-    <section class="testimonials_area p_120">
+    <section class="testimonials_area testi_two p_120">
         <div class="container">
             <div class="main_title">
                 <h2>Testimonials</h2>
@@ -292,61 +209,6 @@
         </div>
     </section>
     <!--================End Testimonials Area =================-->
-
-    <!--================Latest Blog Area =================-->
-    <section class="latest_blog_area p_120">
-        <div class="container">
-            <div class="main_title">
-                <h2>Latest Posts from Blog</h2>
-                <p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.</p>
-            </div>
-            <div class="row latest_blog_inner">
-                <div class="col-lg-4">
-                    <div class="l_blog_item">
-                        <div class="l_blog_img">
-                            <img class="img-fluid" src="{{asset('frontend/img/blog/home-blog/home-blog-1.jpg')}}" alt="">
-                        </div>
-                        <div class="l_blog_text">
-                            <div class="date">
-                                <a href="#">25 October, 2017  |  By Mark Wiens</a>
-                            </div>
-                            <a href="#"><h4>Addiction When Gambling Becomes A Problem</h4></a>
-                            <p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in front of their desktops, while delivery people scan bar codes with handhelds and workers in the field stay</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="l_blog_item">
-                        <div class="l_blog_img">
-                            <img class="img-fluid" src="{{asset('frontend/img/blog/home-blog/home-blog-2.jpg')}}" alt="">
-                        </div>
-                        <div class="l_blog_text">
-                            <div class="date">
-                                <a href="#">25 October, 2017  |  By Mark Wiens</a>
-                            </div>
-                            <a href="#"><h4>Make Myspace Your Best Designed Space</h4></a>
-                            <p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in front of their desktops, while delivery people scan bar codes with handhelds and workers in the field stay</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="l_blog_item">
-                        <div class="l_blog_img">
-                            <img class="img-fluid" src="{{asset('frontend/img/blog/home-blog/home-blog-3.jpg')}}" alt="">
-                        </div>
-                        <div class="l_blog_text">
-                            <div class="date">
-                                <a href="#">25 October, 2017  |  By Mark Wiens</a>
-                            </div>
-                            <a href="#"><h4>Video Games Playing With Imagination</h4></a>
-                            <p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in front of their desktops, while delivery people scan bar codes with handhelds and workers in the field stay</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--================End Latest Blog Area =================-->
 
 
 @endsection

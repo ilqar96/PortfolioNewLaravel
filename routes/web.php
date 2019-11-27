@@ -4,11 +4,13 @@
 
 Auth::routes();
 
-Route::get('/', 'HomeController@index')->name('home');
-Route::redirect('/home', '/');
+
+Route::group(['as'=>'home.'],function (){
+    Route::get('/', 'HomeController@index')->name('main');
+    Route::get('/about', 'HomeController@about')->name('about');
+    Route::get('/blog', 'HomeController@blog')->name('blog');
+    Route::get('/contact', 'HomeController@contact')->name('contact');
+});
+    Route::redirect('/home', '/');
 
 
-
-
-
-Route::get('/test/{id?}', 'TestController@index')->name('test');

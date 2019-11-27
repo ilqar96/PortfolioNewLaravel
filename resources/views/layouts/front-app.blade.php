@@ -51,10 +51,10 @@
 <script src="{{asset('frontend/js/jquery.ajaxchimp.min.js')}}"></script>
 <script src="{{asset('frontend/vendors/counter-up/jquery.waypoints.min.js')}}"></script>
 <script src="{{asset('frontend/vendors/counter-up/jquery.counterup.min.js')}}"></script>
-<script src="{{asset('frontend/js/mail-script.js')}}"></script>
+{{--<script src="{{asset('frontend/js/mail-script.js')}}"></script>--}}
 <!--gmaps Js-->
-<script src="{{asset('frontend/https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE')}}"></script>
-<script src="{{asset('frontend/js/gmaps.min.js')}}"></script>
+{{--<script src="{{asset('frontend/https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE')}}"></script>--}}
+{{--<script src="{{asset('frontend/js/gmaps.min.js')}}"></script>--}}
 <script src="{{asset('frontend/js/theme.js')}}"></script>
 
 
